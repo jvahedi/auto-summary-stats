@@ -1,4 +1,4 @@
-# Auto Summary Statistics Generator
+# Auto Summary Statistics Generator (Alpha)
 Author: John Vahedi  
 Date: January 29, 2025
 
